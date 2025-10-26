@@ -22,7 +22,6 @@ Thumbs.db
 # Data & results
 data/*
 !data/.gitkeep
-results/*
 !results/.gitkeep
 
 # Logs & temp files
